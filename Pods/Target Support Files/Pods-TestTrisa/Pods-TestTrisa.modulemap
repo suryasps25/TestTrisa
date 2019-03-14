@@ -1,0 +1,6 @@
+module Pods_TestTrisa {
+  umbrella header "Pods-TestTrisa-umbrella.h"
+
+  export *
+  module * { export * }
+}
